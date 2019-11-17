@@ -6,3 +6,5 @@
   5. https://coding-factory.tistory.com/29
   6. https://coding-factory.tistory.com/29
   7. https://huskdoll.tistory.com/856
+  8. [[https://www.youtube.com/watch?v=maLrgeY0InA][how to unlock hr sample user in oracle database 18c]]
+  9. [[https://www.youtube.com/watch?v=z0dfSom97GU][how to connect HR sample user with oracle database 18c]]
