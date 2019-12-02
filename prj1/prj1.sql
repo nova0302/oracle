@@ -38,17 +38,7 @@ INSERT INTO score_tbl VALUES('10402', 65, 70 , 50 , 94);
 INSERT INTO score_tbl VALUES('10403', 80, 60 , 100, 80);
 INSERT INTO score_tbl VALUES('10404', 64, 50 , 40 , 65);
 INSERT INTO score_tbl VALUES('10405', 55, 70 , 80 , 75);
-
-CREATE TABLE gcno_tbl
-       (
-        id VARCHAR2(5) not null          
-        ,grade number(3)
-        ,class VARCHAR2(2)
-        ,st_no number(3)
-        ,constraint gcno_tbl_pk primary key (id));
-
-INSERT INTO gcno_tbl VALUES ('10301', 1, '03', '01');         
-        
+       
 --select * from member_tbl;
 --select * from score_tbl;
 commit;
